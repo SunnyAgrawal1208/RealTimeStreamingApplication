@@ -32,3 +32,7 @@ These build steps where produced on a MacOS machine where python 3 is installed 
 
 Run `cdk destroy` to cleanup all provisioned resources.
 
+
+For more info goto this medium blog:
+https://agrawalsunny557.medium.com/real-time-streaming-analytics-application-using-aws-cdk-1f1da3c67bc3 
+
